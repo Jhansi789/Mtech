@@ -1,2 +1,3 @@
-# Mtech
-Project related
+# maven-project
+
+Simple Maven Project
